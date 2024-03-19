@@ -1,0 +1,4 @@
+mkdir weather-forecast-app
+cd weather-forecast-app
+npm init -y
+
